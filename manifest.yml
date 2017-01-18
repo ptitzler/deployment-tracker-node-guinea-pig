@@ -1,0 +1,8 @@
+applications:
+- path: .
+  memory: 256M
+  instances: 2
+  domain: mybluemix.net
+  name: deployment-tracker-node-guinea-pig
+  host: deployment-tracker-node-guinea-pig
+  disk_quota: 1024M
